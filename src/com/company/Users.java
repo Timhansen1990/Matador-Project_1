@@ -1,4 +1,4 @@
 package com.company;
 
-public class User_3 {
+public class Users {
 }
